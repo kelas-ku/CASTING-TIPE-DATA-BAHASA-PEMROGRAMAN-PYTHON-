@@ -6,7 +6,8 @@
 
 ### Dokumentasi Lengkap Casting Tipe Data pada Bahasa Pemrograman Python
 
-Memahami konsep **Type Casting (Konversi Tipe Data)** di Python mulai dari **Casting Tipe Data Umum** hingga **Casting Tipe Data Khusus** secara bertahap, lengkap, dan mudah dipahami.
+Memahami konsep **Type Casting (Konversi Tipe Data)** di Python mulai dari,
+**Casting Tipe Data Umum** hingga **Casting Tipe Data Khusus** secara bertahap, lengkap, dan mudah dipahami.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Learning-success)
@@ -19,7 +20,8 @@ Memahami konsep **Type Casting (Konversi Tipe Data)** di Python mulai dari **Cas
 
 # 📖 Tentang Repository
 
-Repository ini berisi dokumentasi dan contoh implementasi mengenai **Casting Tipe Data (Type Casting)** pada bahasa pemrograman **Python**.
+Repository ini berisi dokumentasi dan contoh implementasi mengenai ,
+*Casting Tipe Data (Type Casting)** pada bahasa pemrograman **Python**.
 
 Materi disusun secara sistematis agar mudah dipelajari oleh:
 
@@ -28,7 +30,8 @@ Materi disusun secara sistematis agar mudah dipelajari oleh:
 - 🎓 Mahasiswa
 - 📚 Guru maupun Instruktur Pemrograman
 
-Repository ini membahas seluruh proses konversi tipe data dasar Python beserta perilaku setiap tipe data ketika dilakukan proses casting.
+Repository ini membahas seluruh proses konversi tipe data dasar Python,
+beserta perilaku setiap tipe data ketika dilakukan proses casting.
 
 ---
 
@@ -162,4 +165,3 @@ Semoga dokumentasi ini dapat membantu proses belajar **Python Type Casting** den
 **Made with ❤️ using Python**
 
 </div>
-```
