@@ -162,6 +162,6 @@ Semoga dokumentasi ini dapat membantu proses belajar **Python Type Casting** den
 
 ## 🚀 Happy Coding!
 
-**Made with ❤️ using Python**
+**Made with ❤️ Zayad K.**
 
 </div>
