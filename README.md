@@ -1,7 +1,6 @@
 # CASTING-TIPE-DATA-BAHASA-PEMROGRAMAN-PYTHON-
 
 ````markdown
-<div align="center">
 
 # 🐍 Python Data Type Casting
 
